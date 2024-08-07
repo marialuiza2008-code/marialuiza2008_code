@@ -1,5 +1,5 @@
 Boas vindas ao meu perfil 💙💙
-Meu nome é Maria
+Meu nome é **Maria**
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
